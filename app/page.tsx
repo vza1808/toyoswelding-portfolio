@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Toyo's Welding and Repair Services
       </h1>
       <p className="mb-4">
         {`I'm Andrew Vazquez, a math enthusiast and first-gen advocate, finding unmatched efficiency in
