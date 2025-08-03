@@ -7,7 +7,7 @@ const navItems = {
   '/blog': {
     name: 'About',
   },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
+  'https://www.linkedin.com/in/metodio-vazquez-4b7769286/': {
     name: 'Contact',
   },
 }
