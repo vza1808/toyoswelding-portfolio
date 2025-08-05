@@ -74,7 +74,7 @@ export default function Blog({ params }) {
             image: post.metadata.image
               ? `${baseUrl}${post.metadata.image}`
               : `/og?title=${encodeURIComponent(post.metadata.title)}`,
-            url: `${baseUrl}/About/${post.slug}`,
+            url: `${baseUrl}/blog/${post.slug}`,
             author: {
               '@type': 'Person',
               name: 'My Portfolio',
