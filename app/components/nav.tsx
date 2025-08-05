@@ -4,7 +4,7 @@ const navItems = {
   '/': {
     name: 'Home',
   },
-  '/blog': {
+  '/About': {
     name: 'About',
   },
   'https://www.linkedin.com/in/metodio-vazquez-4b7769286/': {
