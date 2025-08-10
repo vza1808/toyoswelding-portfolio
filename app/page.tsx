@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { BlogPosts } from 'app/components/posts'
 
 export default function Page() {
@@ -6,6 +7,13 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Toyo's Welding and Repair Services
       </h1>
+      <Image
+        src="/GLADIATOR.jpeg"
+        alt="Gladiator welding"
+        width={600}
+        height={400}
+        className="rounded-lg mb-6"
+      />
       <p className="mb-4">
         {`I'm Andrew Vazquez, a math enthusiast and first-gen advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
