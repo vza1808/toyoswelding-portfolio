@@ -5,11 +5,11 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Toyo's Welding and Repair Services
+        Metodio Vazquez
       </h1>
       <Image
-        src="/GLADIATOR.jpeg"
-        alt="Gladiator welding"
+        src="/Toyo.jpeg"
+        alt="Metodio Vazquez"
         width={200}
         height={100}
         className="rounded-lg mb-6"
