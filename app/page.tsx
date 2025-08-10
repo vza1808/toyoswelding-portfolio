@@ -10,8 +10,8 @@ export default function Page() {
       <Image
         src="/GLADIATOR.jpeg"
         alt="Gladiator welding"
-        width={600}
-        height={400}
+        width={200}
+        height={100}
         className="rounded-lg mb-6"
       />
       <p className="mb-4">
