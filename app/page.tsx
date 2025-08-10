@@ -14,8 +14,8 @@ export default function Page() {
         <Image
           src="/Toyo.jpeg"
           alt="Metodio Vazquez"
-          width={200}
-          height={200}
+          width={75}
+          height={75}
           className="rounded-lg ml-6"
         />
       </div>
