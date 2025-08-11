@@ -13,11 +13,10 @@ export default function Page() {
       <Image
         src="/MOAB.jpeg"
         alt="Moab"
-        width={300}
-        height={300}
+        width={500}
+        height={500}
         className="rounded-lg mb-6"
       />
-      <BlogPosts />
     </section>
   )
 }
