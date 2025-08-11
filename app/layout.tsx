@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'My Portfolio',
     description: 'This is my portfolio.',
     url: baseUrl,
-    siteName: 'My Portfolio',
+    siteName: 'Toyo\'s Welding and Repair Services',
     locale: 'en_US',
     type: 'website',
   },
