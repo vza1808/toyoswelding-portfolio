@@ -12,7 +12,7 @@ export default function ContactPage() {
         className="rounded-lg mb-6"
       />
       <p>
-        You can reach me at{' '}
+        For inquiries or estimates, please contact me at{' '}
         <a href="mailto:toyovazquez31@gmail.com" className="underline text-blue-600">
           toyovazquez31@gmail.com
         </a>
