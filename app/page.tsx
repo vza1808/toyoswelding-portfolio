@@ -20,6 +20,9 @@ export default function Page() {
         />
       </div>
       <div className="my-8">
+        <p className="mb-4 flex-1">
+          Notable Projects
+        </p>
         <BlogPosts />
       </div>
     </section>
