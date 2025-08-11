@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   },
   description: 'This is my portfolio.',
   openGraph: {
-    title: 'My Portfolio',
-    description: 'This is my portfolio.',
+    title: 'Toyo\'s Welding and Repair Services',
+    description: 'This is my portfolio website.',
     url: baseUrl,
     siteName: 'Toyo\'s Welding and Repair Services',
     locale: 'en_US',
