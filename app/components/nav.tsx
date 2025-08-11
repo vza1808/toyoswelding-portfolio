@@ -7,7 +7,7 @@ const navItems = {
   '/about': {
     name: 'About',
   },
-  'https://www.linkedin.com/in/metodio-vazquez-4b7769286/': {
+  '/contact': {
     name: 'Contact',
   },
 }
