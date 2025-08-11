@@ -11,8 +11,8 @@ export default function Page() {
     <section>
       <h1 className="font-semibold text-2xl mb-8 tracking-tighter">About</h1>
       <Image
-        src="/DONUT.jpeg"
-        alt="Donut"
+        src="/MOAB.jpeg"
+        alt="Moab"
         width={300}
         height={300}
         className="rounded-lg mb-6"
